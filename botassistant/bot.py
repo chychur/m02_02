@@ -7,7 +7,7 @@ from source.scripts.sorter import Sorter
 class Bot:
 
     def __init__(self):
-        self.file_name_log = 'BotAssistant/storage/logs.txt'
+        self.file_name_log = 'botassistant/storage/logs.txt'
         self.adressbook = AddressBook()
         self.notebook = NoteBook()
         self.sorter = Sorter()

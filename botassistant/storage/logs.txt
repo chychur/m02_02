@@ -470,3 +470,72 @@ Added contact Record (Name:"Andy", Phone(s):"+380674169297", Birthday:"", Email:
 
 [16:59:16] Bot has been saved!
 [16:59:16] Bot has been loaded!
+[17:22:31] Bot has been loaded!
+[17:22:37] [Module] USER INPUT : help
+[17:22:37] BOT RESULT : 
+How can I help you?
+ Available command:
+help
+exit
+goodbye
+closeadd-contact
+add-phone
+del-phone
+change-phone
+all-contacts
+n-contacts
+phone
+search-contact
+add-note
+add-tag
+del-tag
+change-tag
+all-notes
+n-notes
+tag
+search-note
+sort
+
+[17:22:37] Bot has been saved!
+[17:22:37] Bot has been loaded!
+[17:23:15] [Module] USER INPUT : all-contacts
+[17:23:15] BOT RESULT : 
+===============================================================================================================================================
+| No.  |Name           |               Phone(s)               |  Birthday  |          Email          |                Address                 |
+===============================================================================================================================================
+|  1   |Andy           |            +380674169297             |    Emty    |          Emty           |                  Emty                  |
+===============================================================================================================================================
+
+
+[17:23:15] Bot has been saved!
+[17:23:15] Bot has been loaded!
+[17:23:21] [Module] USER INPUT : exit
+[17:23:40] Bot has been loaded!
+[20:14:03] Bot has been loaded!
+[20:14:07] [Module] USER INPUT : help
+[20:14:07] BOT RESULT : 
+How can I help you?
+ Available command:
+help
+exit
+goodbye
+closeadd-contact
+add-phone
+del-phone
+change-phone
+all-contacts
+n-contacts
+phone
+search-contact
+add-note
+add-tag
+del-tag
+change-tag
+all-notes
+n-notes
+tag
+search-note
+sort
+
+[20:14:08] Bot has been saved!
+[20:14:08] Bot has been loaded!

@@ -52,7 +52,7 @@ class NoteBook(ModuleType):
         self.data: list[NoteRecord] = []
         self.current_value = 0
         self.step = 0
-        self.file_name_save = 'BotAssistant/storage/NoteBookStorage.bin'
+        self.file_name_save = 'botassistant/storage/NoteBookStorage.bin'
 
     def __getitem__(self, index):
         return self.data[index]

@@ -1,4 +1,4 @@
-FROM python:3.9-slim AS base
+FROM python:3.11-slim AS base
 
 ENV APP_HOME /app
 
@@ -12,4 +12,4 @@ RUN pip3 install -r requirements.txt
 EXPOSE 5000
 
 #тут проблема
-ENTRYPOINT ["poetry", "run", "python", "botassistant", "bot.py"]
+ENTRYPOINT ["python", "botassistant/bot.py"]

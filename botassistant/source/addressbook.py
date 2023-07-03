@@ -68,7 +68,7 @@ class AddressBook(ModuleType):
         self.data: list[AddressRecord] = []
         self.current_value = 0
         self.step = 0
-        self.file_name_save = 'BotAssistant/storage/AddressBookStorage.bin'
+        self.file_name_save = 'botassistant/storage/AddressBookStorage.bin'
 
     def __getitem__(self, index):
         return self.data[index]
